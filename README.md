@@ -4,7 +4,7 @@ Check full face object detection(Tflite)
 - ![image](https://user-images.githubusercontent.com/67794492/216495507-e676c4d5-ea71-44ca-9048-f7052cc49855.png)
 
 =>check full face: 2 eyes, 1 nose, 1 mouth and next step
-Check open and close eyes(Yolov5=>DNN)
+Check open and close eyes(Yolov5=>ONNX)
 -	Crop 2 eyes
 -	Resize 96*96
 -	Scale 0-1(image/=255.0)
